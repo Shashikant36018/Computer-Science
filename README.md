@@ -1,29 +1,29 @@
-computer science
+Computer Science
 
-# what is computer science?
-Computer science is the study of computers and computational systems, including their design, principles, applications, and impact on society.
+# What is Computer Science?
+Computer Science is the study of Computers and Computational Systems, including their design, principles, applications, and impact on society.
 
-## computer<br>
-A device that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the ability to follow generalized sets of operations, called programs. These programs enable computers to perform an extremely wide range of tasks.
+## Computer<br>
+A device that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern Computers have the ability to follow generalized sets of operations, called programs. These programs enable computers to perform an extremely wide range of tasks.
 <br>
 
 ## Computation<br>
 Any type of calculation that includes both arithmetical and non-arithmetical steps and follows a well-defined model, e.g. an algorithm.<br>
 # major branch of computer science<br>
 
-## Software engineering<br>
+## Software Engineering<br>
 <img src="https://github.com/user-attachments/assets/aace0b65-537f-42e4-b5d3-63192e39a606" alt="Java" width="40" height="40"/><br>
-Software engineering is a branch of computer science that includes developing and manufacturing computer systems software. Making an application is one of the main tasks of this field of study. Software engineers and computer programmers both develop software programs needed by computers.
+Software Engineering is a branch of Computer Science that includes developing and manufacturing Computer Systems Software. Making an application is one of the main tasks of this field of study. Software Engineers and Computer Programmers both develop Software programs needed by Computers.
 
-## data science<br>
+## Data Science<br>
 <img src="https://github.com/user-attachments/assets/0fef1888-473c-43b4-98f1-b730b587b090" alt="Java" width="40" height="40"/><br>
-Data science can be defined as a branch of computer science due to its focus on computers and databases. It is also an interdisciplinary subject that allows valuable information to be extracted from a huge amount of data (structured or unstructured) using statistics, computers and technology.
+Data Science can be defined as a branch of computer science due to its focus on computers and databases. It is also an interdisciplinary subject that allows valuable information to be extracted from a huge amount of data (structured or unstructured) using statistics, computers and technology.
 ## Computer science and engineering<br>
 <img src="https://github.com/user-attachments/assets/e8caf12a-1eb9-49f5-8157-ee75ccf71f6e" alt="Java" width="40" height="40"/><br>
 Data science can be defined as a branch of computer science due to its focus on computers and databases. It is also an interdisciplinary subject that allows valuable information to be extracted from a huge amount of data (structured or unstructured) using statistics, computers and technology.
-## Computer engineering<br>
+## Computer Engineering<br>
 <img src="https://github.com/user-attachments/assets/d55d4bfb-5b41-4b20-8709-ec30c8b1a90a" alt="Java" width="40" height="40"/><br>
-Computer engineering (CoE or CpE) is a branch of computer science and electronic engineering that integrates several fields of computer science and electronic engineering required to develop computer hardware and software.Its usually deals with areas including writing software and firmware for embedded microcontrollers, designing VLSI chips, analog sensors, mixed signal circuit boards, and operating systems.
+Computer Engineering (CoE or CpE) is a branch of computer science and electronic engineering that integrates several fields of computer science and electronic engineering required to develop computer hardware and software.Its usually deals with areas including writing software and firmware for embedded microcontrollers, designing VLSI chips, analog sensors, mixed signal circuit boards, and operating systems.
 ## Cybersecurity<br>
 <img src="https://github.com/user-attachments/assets/55529eb1-abdd-4a73-b50a-ca0429c902a5" alt="Java" width="40" height="40"/><br>
 Cybersecurity is a branch of computer science focused specifically on detecting, responding to, and preventing cyber attacks. It requires a high level of technical skills to understand computer systems, networks, and data privacy.Its refers to every aspect of protecting an organization and its employees and assets against cyber threats.

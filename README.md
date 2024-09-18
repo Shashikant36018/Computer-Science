@@ -136,7 +136,13 @@ SuperH (or SH) is a 32-bit reduced instruction set computing (RISC) instruction 
 Fugaku (Japanese: 富岳) is a petascale supercomputer at the Riken Center for Computational Science in Kobe, Japan. It started development in 2014 as the successor to the K computer. and made its debut in 2020. It is named after an alternative name for Mount Fuji.
 
 It became the fastest supercomputer in the world in the June 2020 TOP500 list. as well as becoming the first ARM architecture-based computer to achieve this. At this time it also achieved 1.42 exaFLOPS using the mixed fp16/fp64 precision HPL-AI benchmark. It started regular operations in 2021.# Computer-Science
+
+git add path/to/your/file
+
 git commit -m "Delete specific portion of information from file"
+
+git push origin branch-*Computer Basics*
+
 
 *Computer Basics*
 

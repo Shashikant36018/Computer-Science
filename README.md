@@ -136,3 +136,398 @@ SuperH (or SH) is a 32-bit reduced instruction set computing (RISC) instruction 
 Fugaku (Japanese: 富岳) is a petascale supercomputer at the Riken Center for Computational Science in Kobe, Japan. It started development in 2014 as the successor to the K computer. and made its debut in 2020. It is named after an alternative name for Mount Fuji.
 
 It became the fastest supercomputer in the world in the June 2020 TOP500 list. as well as becoming the first ARM architecture-based computer to achieve this. At this time it also achieved 1.42 exaFLOPS using the mixed fp16/fp64 precision HPL-AI benchmark. It started regular operations in 2021.# Computer-Science
+
+*Computer Basics*
+
+61.COMPUTER BASICS-
+
+a.SSL CERTIFICATE-An SSL certificate is a digital certificate that authenticates a website's identity and enables an encrypted connection. SSL stands for Secure Sockets Layer, a security protocol that creates an encrypted link between a web server and a web browser.standard form of certificate is X.509.
+
+b.NAT-Network address translation (NAT) is a method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device.
+
+62.BLOCKCHAIN-a system in which a record of transactions, especially those made in a cryptocurrency, is maintained across computers that are linked in a peer-to-peer network.
+
+a.It is a advanced database mechanism that allows transparent information sharing with in a business network.
+
+b.It made by SANTOSHI NAKAMOTO in 2008.
+
+63.CURRENCY-
+
+a.Bitcoin-it is a innovative payment network and a new kind of money. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.
+
+b.Ethereum-Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.Ethereum and its apps are transparent and open source.
+
+c.ICO-An initial coin offering (ICO) is an event where a company sells a new cryptocurrency to raise money.
+
+64.CADDY-Caddy is an extensible, cross-platform, open-source web server. Caddy distributions ship with a set of standard modules which include HTTP server, TLS automation, and PKI apps. It is best known for its automatic HTTPS features(SSL certificate).
+
+65.Client-Server-Client-server denotes a relationship between cooperating programs in an application, composed of clients initiating requests for services and servers providing that function or service. IMAGE
+
+66.FORWARD PROXY-A forward proxy is an intermediary that sits between one or more user devices and the internet.a client request and sending it directly to a web server, a forward proxy server evaluates the request, takes any needed actions, and routes the request to the destination on the client's behalf.
+
+67.REVERSE PROXY-A reverse proxy server is a type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server. forward proxy
+
+68.PORT FORWARDING COMMAND- port forwarding or port mapping is an application of network address translation (NAT) that redirects a communication request from one address and port number combination to another while the packets are traversing a network gateway, such as a router or firewall.
+
+69.ON-PREM[On-premises ]-"On-prem" refers to private data centers that companies house in their own facilities and maintain themselves.
+
+70.CLUSTER- a cluster is a group of servers and other resources that act like a single system and enable high availability, load balancing and parallel processing. cluster
+
+71.kubernetes(K8S)-kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
+
+72.TYPES OF COMPUTING-
+
+a.DESKTOP-Desktop computing devices include workstations, personal computers, and network computing devices. A workstation or desktop personal computer does not have many resource restrictions when connected to a fixed network.
+
+b.client-server-computing-In client server computing, the clients requests a resource and the server provides that resource. A server may serve multiple clients at the same time while a client is in contact with only one server.
+
+c.cloud-computing-Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.Large clouds often have functions distributed over multiple locations, each of which is a data center.
+
+d.edge-computing-Edge computing is a distributed computing paradigm that brings computation and data storage closer to the sources of data.
+
+e.cluster/distributed-A computer cluster is a set of computers that work together so that they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software. example:torrent and bitcoin.
+
+f.decentralized-computing-Decentralized computing is the allocation of resources, both hardware and software, to each individual workstation, or office location. In contrast, centralized computing exists when the majority of functions are carried out, or obtained from a remote centralized location. Decentralized computing is a trend in modern-day business environments.
+image
+
+g.centralized-computing-Centralized computing is computing done at a central location, using terminals that are attached to a central computer. The computer itself may control all the peripherals directly (if they are physically connected to the central computer), or they may be attached via a terminal server. image
+
+73.DESIGN PATTERN-A design pattern typically shows relationship and interaction between classes or objects, without specifying final application classes or objects that are involved.
+
+74.SYSTEM DESIGN-Systems design is therefore the process of defining and developing systems to satisfy specified requirements of the user.
+
+FRONT END AND BACK END
+75.FRONT END-A Front-End in which we develop websites and web applications. --front end languages 1.HTML
+2.CSS(Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML ) 3.JAVA SCRIPT
+
+76.BACK END-The back end refers to parts of a computer application or a program's code that allow it to operate and that cannot be accessed by a user. --back end languages 1.python 2.go 3.JAVA --Spring Boot is an open-source, microservice-based Java web framework offered by Spring. 4.framework-server-side frameworks designed to make tasks easier for developers. example-DJANGO-Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. And it is free and open source.
+
+77.full stack-Full stack development refers to the end-to-end application software development, including the front end and back end.
+
+78.DEVOPS-image
+
+dev means devtops and ops means operation.
+
+CI/CD-continous integration/continous deployment. now ,this is called platform engineer .
+
+79.CRYPTOGRAPHY-Cryptography is a method of protecting information and communications through the use of codes, so that only those for whom the information is intended can read and process. IMAGE
+
+80.TYPES OF CRYPTOGRAPHY-There are two types of cryptography 1.symmetric 2.asymmetric image
+
+81.VPC (VIRTUAL PRIVATE CLOUD)-A virtual private cloud (VPC) is a secure, isolated private cloud hosted within a public cloud.
+
+82.POC-A proof of concept (POC) is a demonstration of a product in which work is focused on determining whether an idea can be turned into a reality.
+
+83.ROUTE 53-Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. Route 53 connects user requests to internet applications running on AWS or on-premises.
+
+84.S3(bucket)-Amazon Simple Storage Service (Amazon S3) is an object storage service offering industry-leading scalability, data availability, security, and performance.
+
+85.CLOUD WATCH-Amazon CloudWatch monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. The CloudWatch home page automatically displays metrics about every AWS service you use.With CloudWatch, you gain system-wide visibility into resource utilization, application performance, and operational health.
+
+86.KVM-KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko.
+
+87.XEN-Xen is a free and open-source type-1 hypervisor, providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently.
+
+88.proxmox-Proxmox Virtual Environment is an open source server virtualization management solution based on QEMU/KVM and LXC. You can manage virtual machines, containers, highly available clusters, storage and networks with an integrated, easy-to-use web interface or via CLI.
+
+89.web assembly(WASM)-WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
+
+90.RAID-RAID (redundant array of independent disks, originally redundant array of inexpensive disks is a storage technology that combines multiple disk drive components into a logical unit. Data is distributed across the drives in one of several ways called "RAID levels", depending on the level of redundancy and performance required.
+
+91.CEPH-Ceph is an open source software-defined storage solution designed to address the block, file and object storage needs of modern enterprises.
+
+92.DATA CENTRES-
+
+RACKS-A rack also called an equipment rack, is a metal frame for holding and organizing networking devices. A networking component that is designed to be mounted in a rack is said to be rack-mountable. Rack-mountable devices include hubs, routers, Ethernet switches, patch panels, and uninterruptible power supply (UPS) devices.
+
+SERVERS
+
+SWITCHES
+
+93.HYPERSCALERS-The term "hyperscale" refers to the ability of these companies to rapidly scale their infrastructure to accommodate the growing demands of their users.FOR EXAMPLE -YOTTA is a data centre open recently in noida which having mutiple servers and use to hyperscale the company
+
+94.hyperconverse(HCI)-Hyperconverged infrastructure (HCI) is a software-defined, unified system that combines all the elements of a traditional data center: storage, computation, networking and management.
+
+95.IBM-IBM (International Business Machines Corporation) is a multinational technology company headquartered in Armonk, N.Y.
+
+96.WEB-SCRAPING-Web scraping uses intelligence automation methods to get thousands or even millions of data sets in a smaller amount of time. Web scraping is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.Many large websites, like Google, Twitter, Facebook, StackOverflow, etc. have API’s that allow you to access their data in a structured format. IMAGE
+
+97.POSTMAN APPLICATION-Postman: Postman is an API(application programming interface) development tool which helps to build, test and modify APIs.
+
+98.REST API-Representational State Transfer (REST) is an architectural style that defines a set of constraints to be used for creating web services. REST API is a way of accessing web services in a simple and flexible way without having any processing.
+
+99.CRUD(CREATE READ UPDATE DELETE)-
+
+100.GRPC(graphic Remote Procedure Call )-gRPC is a modern open source high performance Remote Procedure Call (RPC) framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services.gRPC uses Protobuf, which is not human readable and Mainly used to scale API's.
+
+101.GRAPH QL- GraphQL uses human-readable formats such as JSON or XML. GraphQL is a language for querying data and mainly used to scale API'S.
+
+102.YAML-YAML stands for yet another markup language or YAML ain't markup language (a recursive acronym), which emphasizes that YAML is for data, not documents. YAML is a popular programming language because it is designed to be easy to read and understand.
+
+103.JSON-JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate.
+
+104.EBPF-Extended BerKeley Packet Filter (eBPF) addresses both these issues. eBPF is a kernel technology (fully available since Linux 4.4). It lets programs run without needing to add additional modules or modify the kernel source code.eBPF programs are used to access hardware and services from the Linux kernel area.
+
+105.CNI-CNI (Container Network Interface), a Cloud Native Computing Foundation project, consists of a specification and libraries for writing plugins to configure network interfaces in Linux and Windows containers, along with a number of supported plugins.
+
+Calico: Calico is a highly scalable CNI plugin that provides network policy enforcement and supports various networking modes, including BGP peering for routing.
+
+Flannel: Flannel is a simple and lightweight CNI plugin that can be used for both overlay and host-gateway networking. It’s easy to set up and configure.
+
+Cilium: Cilium is designed for modern, high-performance networking and security in Kubernetes. It uses eBPF (extended Berkeley Packet Filter) for fine-grained network policies.
+
+VPP (Vector Packet Processing) CNI: VPP is an open-source networking stack that can be used as a CNI plugin to achieve high-performance networking.
+
+RKT-RKT (pronounced as “rocket”) is a CLI for running app containers on a Linux platform. Its main purpose is to be secure, fast, and composable, and therefore it is designed as secure, composable, and standards-based.
+
+106.BGP-BGP is responsible for looking at all of the available paths that data could travel and picking the best route, which usually means hopping between autonomous systems.
+
+107.LIBVIRT-image
+
+User-mode Linux (UML)– paravirtualized kernel
+
+ovirt-oVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.
+
+kubevirt- Thus KubeVirt delivers three things to provide the new functionality:
+
+#Additional types - so called Custom Resource Definition (CRD) - are added to the Kubernetes API
+
+#Additional controllers for cluster wide logic associated with these new types
+
+#Additional daemons for node specific logic associated with new types
+
+108.CRD-A custom resource is an object that extends the Kubernetes API or allows you to introduce your own API into a project or a cluster. A custom resource definition (CRD) file defines your own object kinds and lets the API Server handle the entire lifecycle.
+
+109.CNCF-The Cloud Native Computing Foundation (CNCF) is an open source software foundation that promotes the adoption of cloud-native computing.
+
+110.OVERLAY- overlaying means "the process of transferring a block of program code or other data into main memory, replacing what is already stored".
+
+111.TUN-TUN, short for network TUNnel, is a virtual interface that implements a software-based abstraction of a network by emulating the behavior of physical devices like Ethernet or Wi-Fi interface cards.It operates on layer 3 of the OSI model, handling the transmission and reception of IP packets.
+
+112.OVS-Open vSwitch, sometimes abbreviated as OVS, is an open-source implementation of a distributed virtual multilayer switch. The main purpose of Open vSwitch is to provide a switching stack for hardware virtualization environments, while supporting multiple protocols and standards used in computer networks.
+
+113.ARP-Address Resolution Protocol (ARP) is a protocol or procedure that connects an ever-changing Internet Protocol (IP) address to a fixed physical machine address, also known as a media access control (MAC) address, in a local-area network (LAN). IMAGE
+
+114.REV ARP-The Reverse Address Resolution Protocol (RARP) is an obsolete computer communication protocol used by a client computer to request its Internet Protocol (IPv4) address from a computer network, when all it has available is its link layer or hardware address, such as a MAC address. IMAGE
+
+115.ESM-Enterprise Service Management – often referred to as ESM, is the extension of IT Service Management (ITSM) principles to enable better service delivery for business teams like Human Resources (HR), legal, facilities, marketing, and finance.
+
+116.ETCD-etcd is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines. It gracefully handles leader elections during network partitions and can tolerate machine failure, even in the leader node.
+
+117.RAFT-Raft is a consensus algorithm designed as an alternative to the Paxos family of algorithms. It was meant to be more understandable than Paxos by means of separation of logic, but it is also formally proven safe and offers some additional features.
+
+118.MESOS- It is an open source cluster manager that handles workloads in a distributed environment through dynamic resource sharing and isolation. Mesos is suited for the deployment and management of applications in large-scale clustered environments.
+
+119.TERRAFORM- Terraform is an infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share. You can then use a consistent workflow to provision and manage all of your infrastructure throughout its lifecycle. Terraform can manage low-level components like compute, storage, and networking resources, as well as high-level components like DNS entries and SaaS features.
+
+120.GRAPHINE CS-For privacy and security
+
+121.hcl-A hardware compatibility list (HCL) is a list of computer hardware (typically including many types of peripheral devices) that is compatible with a particular operating system or device management software.
+
+122.TAP-A network tap is a system that monitors events on a local network. A tap is typically a dedicated hardware device, which provides a way to access the data flowing across a computer network.
+
+123.cockroachDB-CockroachDB replicates your data for availability and guarantees consistency between replicas using the Raft consensus algorithm, a popular alternative to Paxos.
+
+124.DHCP-DHCP (Dynamic Host Configuration Protocol) is a network management protocol used to dynamically assign an IP address to any device, or node, on a network so it can communicate using IP.
+
+125.Rancher-Rancher is used to provision and manage Kubernetes clusters.
+
+126.green fields vs brownfields application-A greenfield project is a new project that starts from scratch. Whereas, a brownfield project has already gotten worked on by people.
+
+61.COMPUTER BASICS-
+
+a.SSL CERTIFICATE-An SSL certificate is a digital certificate that authenticates a website's identity and enables an encrypted connection. SSL stands for Secure Sockets Layer, a security protocol that creates an encrypted link between a web server and a web browser.standard form of certificate is X.509.
+
+b.NAT-Network address translation (NAT) is a method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device.
+
+62.BLOCKCHAIN-a system in which a record of transactions, especially those made in a cryptocurrency, is maintained across computers that are linked in a peer-to-peer network.
+
+a.It is a advanced database mechanism that allows transparent information sharing with in a business network.
+
+b.It made by SANTOSHI NAKAMOTO in 2008.
+
+63.CURRENCY-
+
+a.Bitcoin-it is a innovative payment network and a new kind of money. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.
+
+b.Ethereum-Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.Ethereum and its apps are transparent and open source.
+
+c.ICO-An initial coin offering (ICO) is an event where a company sells a new cryptocurrency to raise money.
+
+64.CADDY-Caddy is an extensible, cross-platform, open-source web server. Caddy distributions ship with a set of standard modules which include HTTP server, TLS automation, and PKI apps. It is best known for its automatic HTTPS features(SSL certificate).
+
+65.Client-Server-Client-server denotes a relationship between cooperating programs in an application, composed of clients initiating requests for services and servers providing that function or service. IMAGE
+
+66.FORWARD PROXY-A forward proxy is an intermediary that sits between one or more user devices and the internet.a client request and sending it directly to a web server, a forward proxy server evaluates the request, takes any needed actions, and routes the request to the destination on the client's behalf.
+
+67.REVERSE PROXY-A reverse proxy server is a type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server. forward proxy
+
+68.PORT FORWARDING COMMAND- port forwarding or port mapping is an application of network address translation (NAT) that redirects a communication request from one address and port number combination to another while the packets are traversing a network gateway, such as a router or firewall.
+
+69.ON-PREM[On-premises ]-"On-prem" refers to private data centers that companies house in their own facilities and maintain themselves.
+
+70.CLUSTER- a cluster is a group of servers and other resources that act like a single system and enable high availability, load balancing and parallel processing. cluster
+
+71.kubernetes(K8S)-kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
+
+72.TYPES OF COMPUTING-
+
+a.DESKTOP-Desktop computing devices include workstations, personal computers, and network computing devices. A workstation or desktop personal computer does not have many resource restrictions when connected to a fixed network.
+
+b.client-server-computing-In client server computing, the clients requests a resource and the server provides that resource. A server may serve multiple clients at the same time while a client is in contact with only one server.
+
+c.cloud-computing-Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.Large clouds often have functions distributed over multiple locations, each of which is a data center.
+
+d.edge-computing-Edge computing is a distributed computing paradigm that brings computation and data storage closer to the sources of data.
+
+e.cluster/distributed-A computer cluster is a set of computers that work together so that they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software. example:torrent and bitcoin.
+
+f.decentralized-computing-Decentralized computing is the allocation of resources, both hardware and software, to each individual workstation, or office location. In contrast, centralized computing exists when the majority of functions are carried out, or obtained from a remote centralized location. Decentralized computing is a trend in modern-day business environments.
+image
+
+g.centralized-computing-Centralized computing is computing done at a central location, using terminals that are attached to a central computer. The computer itself may control all the peripherals directly (if they are physically connected to the central computer), or they may be attached via a terminal server. image
+
+73.DESIGN PATTERN-A design pattern typically shows relationship and interaction between classes or objects, without specifying final application classes or objects that are involved.
+
+74.SYSTEM DESIGN-Systems design is therefore the process of defining and developing systems to satisfy specified requirements of the user.
+
+FRONT END AND BACK END
+75.FRONT END-A Front-End in which we develop websites and web applications. --front end languages 1.HTML
+2.CSS(Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML ) 3.JAVA SCRIPT
+
+76.BACK END-The back end refers to parts of a computer application or a program's code that allow it to operate and that cannot be accessed by a user. --back end languages 1.python 2.go 3.JAVA --Spring Boot is an open-source, microservice-based Java web framework offered by Spring. 4.framework-server-side frameworks designed to make tasks easier for developers. example-DJANGO-Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. And it is free and open source.
+
+77.full stack-Full stack development refers to the end-to-end application software development, including the front end and back end.
+
+78.DEVOPS-image
+
+dev means devtops and ops means operation.
+
+CI/CD-continous integration/continous deployment. now ,this is called platform engineer .
+
+79.CRYPTOGRAPHY-Cryptography is a method of protecting information and communications through the use of codes, so that only those for whom the information is intended can read and process. IMAGE
+
+80.TYPES OF CRYPTOGRAPHY-There are two types of cryptography 1.symmetric 2.asymmetric image
+
+81.VPC (VIRTUAL PRIVATE CLOUD)-A virtual private cloud (VPC) is a secure, isolated private cloud hosted within a public cloud.
+
+82.POC-A proof of concept (POC) is a demonstration of a product in which work is focused on determining whether an idea can be turned into a reality.
+
+83.ROUTE 53-Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. Route 53 connects user requests to internet applications running on AWS or on-premises.
+
+84.S3(bucket)-Amazon Simple Storage Service (Amazon S3) is an object storage service offering industry-leading scalability, data availability, security, and performance.
+
+85.CLOUD WATCH-Amazon CloudWatch monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. The CloudWatch home page automatically displays metrics about every AWS service you use.With CloudWatch, you gain system-wide visibility into resource utilization, application performance, and operational health.
+
+86.KVM-KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko.
+
+87.XEN-Xen is a free and open-source type-1 hypervisor, providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently.
+
+88.proxmox-Proxmox Virtual Environment is an open source server virtualization management solution based on QEMU/KVM and LXC. You can manage virtual machines, containers, highly available clusters, storage and networks with an integrated, easy-to-use web interface or via CLI.
+
+89.web assembly(WASM)-WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
+
+90.RAID-RAID (redundant array of independent disks, originally redundant array of inexpensive disks is a storage technology that combines multiple disk drive components into a logical unit. Data is distributed across the drives in one of several ways called "RAID levels", depending on the level of redundancy and performance required.
+
+91.CEPH-Ceph is an open source software-defined storage solution designed to address the block, file and object storage needs of modern enterprises.
+
+92.DATA CENTRES-
+
+RACKS-A rack also called an equipment rack, is a metal frame for holding and organizing networking devices. A networking component that is designed to be mounted in a rack is said to be rack-mountable. Rack-mountable devices include hubs, routers, Ethernet switches, patch panels, and uninterruptible power supply (UPS) devices.
+
+SERVERS
+
+SWITCHES
+
+93.HYPERSCALERS-The term "hyperscale" refers to the ability of these companies to rapidly scale their infrastructure to accommodate the growing demands of their users.FOR EXAMPLE -YOTTA is a data centre open recently in noida which having mutiple servers and use to hyperscale the company
+
+94.hyperconverse(HCI)-Hyperconverged infrastructure (HCI) is a software-defined, unified system that combines all the elements of a traditional data center: storage, computation, networking and management.
+
+95.IBM-IBM (International Business Machines Corporation) is a multinational technology company headquartered in Armonk, N.Y.
+
+96.WEB-SCRAPING-Web scraping uses intelligence automation methods to get thousands or even millions of data sets in a smaller amount of time. Web scraping is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.Many large websites, like Google, Twitter, Facebook, StackOverflow, etc. have API’s that allow you to access their data in a structured format. IMAGE
+
+97.POSTMAN APPLICATION-Postman: Postman is an API(application programming interface) development tool which helps to build, test and modify APIs.
+
+98.REST API-Representational State Transfer (REST) is an architectural style that defines a set of constraints to be used for creating web services. REST API is a way of accessing web services in a simple and flexible way without having any processing.
+
+99.CRUD(CREATE READ UPDATE DELETE)-
+
+100.GRPC(graphic Remote Procedure Call )-gRPC is a modern open source high performance Remote Procedure Call (RPC) framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services.gRPC uses Protobuf, which is not human readable and Mainly used to scale API's.
+
+101.GRAPH QL- GraphQL uses human-readable formats such as JSON or XML. GraphQL is a language for querying data and mainly used to scale API'S.
+
+102.YAML-YAML stands for yet another markup language or YAML ain't markup language (a recursive acronym), which emphasizes that YAML is for data, not documents. YAML is a popular programming language because it is designed to be easy to read and understand.
+
+103.JSON-JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate.
+
+104.EBPF-Extended BerKeley Packet Filter (eBPF) addresses both these issues. eBPF is a kernel technology (fully available since Linux 4.4). It lets programs run without needing to add additional modules or modify the kernel source code.eBPF programs are used to access hardware and services from the Linux kernel area.
+
+105.CNI-CNI (Container Network Interface), a Cloud Native Computing Foundation project, consists of a specification and libraries for writing plugins to configure network interfaces in Linux and Windows containers, along with a number of supported plugins.
+
+Calico: Calico is a highly scalable CNI plugin that provides network policy enforcement and supports various networking modes, including BGP peering for routing.
+
+Flannel: Flannel is a simple and lightweight CNI plugin that can be used for both overlay and host-gateway networking. It’s easy to set up and configure.
+
+Cilium: Cilium is designed for modern, high-performance networking and security in Kubernetes. It uses eBPF (extended Berkeley Packet Filter) for fine-grained network policies.
+
+VPP (Vector Packet Processing) CNI: VPP is an open-source networking stack that can be used as a CNI plugin to achieve high-performance networking.
+
+RKT-RKT (pronounced as “rocket”) is a CLI for running app containers on a Linux platform. Its main purpose is to be secure, fast, and composable, and therefore it is designed as secure, composable, and standards-based.
+
+106.BGP-BGP is responsible for looking at all of the available paths that data could travel and picking the best route, which usually means hopping between autonomous systems.
+
+107.LIBVIRT-image
+
+User-mode Linux (UML)– paravirtualized kernel
+
+ovirt-oVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.
+
+kubevirt- Thus KubeVirt delivers three things to provide the new functionality:
+
+#Additional types - so called Custom Resource Definition (CRD) - are added to the Kubernetes API
+
+#Additional controllers for cluster wide logic associated with these new types
+
+#Additional daemons for node specific logic associated with new types
+
+108.CRD-A custom resource is an object that extends the Kubernetes API or allows you to introduce your own API into a project or a cluster. A custom resource definition (CRD) file defines your own object kinds and lets the API Server handle the entire lifecycle.
+
+109.CNCF-The Cloud Native Computing Foundation (CNCF) is an open source software foundation that promotes the adoption of cloud-native computing.
+
+110.OVERLAY- overlaying means "the process of transferring a block of program code or other data into main memory, replacing what is already stored".
+
+111.TUN-TUN, short for network TUNnel, is a virtual interface that implements a software-based abstraction of a network by emulating the behavior of physical devices like Ethernet or Wi-Fi interface cards.It operates on layer 3 of the OSI model, handling the transmission and reception of IP packets.
+
+112.OVS-Open vSwitch, sometimes abbreviated as OVS, is an open-source implementation of a distributed virtual multilayer switch. The main purpose of Open vSwitch is to provide a switching stack for hardware virtualization environments, while supporting multiple protocols and standards used in computer networks.
+
+113.ARP-Address Resolution Protocol (ARP) is a protocol or procedure that connects an ever-changing Internet Protocol (IP) address to a fixed physical machine address, also known as a media access control (MAC) address, in a local-area network (LAN). IMAGE
+
+114.REV ARP-The Reverse Address Resolution Protocol (RARP) is an obsolete computer communication protocol used by a client computer to request its Internet Protocol (IPv4) address from a computer network, when all it has available is its link layer or hardware address, such as a MAC address. IMAGE
+
+115.ESM-Enterprise Service Management – often referred to as ESM, is the extension of IT Service Management (ITSM) principles to enable better service delivery for business teams like Human Resources (HR), legal, facilities, marketing, and finance.
+
+116.ETCD-etcd is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines. It gracefully handles leader elections during network partitions and can tolerate machine failure, even in the leader node.
+
+117.RAFT-Raft is a consensus algorithm designed as an alternative to the Paxos family of algorithms. It was meant to be more understandable than Paxos by means of separation of logic, but it is also formally proven safe and offers some additional features.
+
+118.MESOS- It is an open source cluster manager that handles workloads in a distributed environment through dynamic resource sharing and isolation. Mesos is suited for the deployment and management of applications in large-scale clustered environments.
+
+119.TERRAFORM- Terraform is an infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share. You can then use a consistent workflow to provision and manage all of your infrastructure throughout its lifecycle. Terraform can manage low-level components like compute, storage, and networking resources, as well as high-level components like DNS entries and SaaS features.
+
+120.GRAPHINE CS-For privacy and security
+
+121.hcl-A hardware compatibility list (HCL) is a list of computer hardware (typically including many types of peripheral devices) that is compatible with a particular operating system or device management software.
+
+122.TAP-A network tap is a system that monitors events on a local network. A tap is typically a dedicated hardware device, which provides a way to access the data flowing across a computer network.
+
+123.cockroachDB-CockroachDB replicates your data for availability and guarantees consistency between replicas using the Raft consensus algorithm, a popular alternative to Paxos.
+
+124.DHCP-DHCP (Dynamic Host Configuration Protocol) is a network management protocol used to dynamically assign an IP address to any device, or node, on a network so it can communicate using IP.
+
+125.Rancher-Rancher is used to provision and manage Kubernetes clusters.
+
+126.green fields vs brownfields application-A greenfield project is a new project that starts from scratch. Whereas, a brownfield project has already gotten worked on by people.
+
+
+
